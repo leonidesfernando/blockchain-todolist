@@ -1,5 +1,5 @@
 # Blockchain TodoList Project
-This is a simple project to develop a smart contract to a task manager. You'll use it to connect to and deploy on the Ropsten test networks.
+This is a simple project to develop a smart contract to a task manager. You'll use it to connect to and deploy on the Goerli test networks.
 Based on this tutorial from Microsoft learn: https://learn.microsoft.com/en-us/training/modules/blockchain-ethereum-networks
 
 ## Requirements
