@@ -24,9 +24,7 @@ Thus, you need to:
 1. Fill up your wallet with funds/gas :fuelpump:
     - _**Info**_: For develoment you can request funds on a Faucet web site.
 
-    - _<sub>Currenty Seppoia is the most used and recommend TestNet network for develoment and testing.</sub>_
-
-    - For Sepolia:
+    - For Sepolia _<sub>Currenty Seppoia is the most used and recommend TestNet network for develoment and testing.</sub>_ :
         - https://sepolia-faucet.pk910.de/
         - https://fauceth.komputing.org/
         - https://sepoliafaucet.com/
