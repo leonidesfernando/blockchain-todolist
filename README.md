@@ -24,12 +24,15 @@ Thus, you need to:
 1. Fill up your wallet with funds/gas :fuelpump:
     - _**Info**_: For develoment you can request funds on a Faucet web site.
 
-    - For Sepolia _<sub>Currenty Seppoia is the most used and recommend TestNet network for develoment and testing.</sub>_ :
+    - For Sepolia:
         - https://sepolia-faucet.pk910.de/
         - https://fauceth.komputing.org/
         - https://sepoliafaucet.com/
         - https://testnet.help/en/ethfaucet/sepolia
         - https://www.infura.io/faucet/sepolia
+
+        *_<sub>[Currenty, Seppoia is the most used and recommend TestNet network for develoment and testing](https://ethereum.org/en/developers/docs/networks/#which-testnet-should-i-use).</sub>_
+
 
 2. Start your develoment blockchain: _`ganache-cli`_
 
