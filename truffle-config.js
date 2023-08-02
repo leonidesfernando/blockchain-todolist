@@ -94,6 +94,13 @@ module.exports = {
        timeoutBlocks: 200,  // # of blocks before a deployment times out  (minimum/default: 50)
        skipDryRun: true     // Skip dry run before migrations? (default: false for public nets )
      },
+     sepolia: {
+      provider: () => new HDWalletProvider(mnemonic, `https://sepolia.infura.io/v3/${PROJECT_ID}`),
+      network_id: "11155111",
+      gas: 4465030,
+      confirmations: 2,
+      timeoutBlocks: 200
+    },
     //
     // Useful for private networks
     // private: {
