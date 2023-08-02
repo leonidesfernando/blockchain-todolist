@@ -17,8 +17,8 @@ Based on this tutorial from Microsoft learn: https://learn.microsoft.com/en-us/t
 ## Compile & Deploy
 In this project we are going to use just command line. 
 
->>### <span style="color:yellow">**Remember**</span>
->>In Ethereum we need to have funds/gas :fuelpump: to run your smart contracts, so you need make sure you have enough funds in your wallet to execute yours smart contracts.
+>### <span style="color:yellow">**Remember**</span>
+>In Ethereum we need to have funds/gas :fuelpump: to run your smart contracts, so you need make sure you have enough funds in your wallet to execute yours smart contracts.
 
 Thus, you need to:
 1. Fill up your wallet with funds/gas :fuelpump:
